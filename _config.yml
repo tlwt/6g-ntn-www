@@ -1,5 +1,5 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://tlwt.github.io/
+baseurl: /6g-ntn-www/
 
 # Site settings
 title: Awesome Title
@@ -9,9 +9,9 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Partner1
   pic: 1
-  position: Lead Designer
+  position: some description
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Partner2
   pic: 2
-  position: Lead Marketer
+  position: some more
   social:
     - title: twitter
       url: #
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Partner2
   pic: 3
-  position: Lead Developer
+  position: and even
   social:
     - title: twitter
       url: #
